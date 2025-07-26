@@ -6,9 +6,11 @@
 2. selenium
 
 
+>установи uv   
+>https://docs.astral.sh/uv/getting-started/installation/
 
 
-установка с uv
+установка проекта с uv
 
 ```bash
 git clone https://github.com/ChernyaevAV/Abitura.git
@@ -21,3 +23,5 @@ uv sync
 ```bash
 uv run main.py
 ```
+
+после загрузки и записи файлов .csv нужно открыть файл Сводки.xlsx и на вкладке "Данные" нажать "Обновить все"
