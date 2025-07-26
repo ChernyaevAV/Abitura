@@ -1,7 +1,7 @@
 [project]
 name = "abitura"
 version = "0.1.0"
-description = "Add your description here"
+description = "парсинг динамических таблиц поступления в ВУЗ"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
