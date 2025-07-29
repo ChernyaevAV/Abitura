@@ -7,5 +7,6 @@ URLS = {
     "nngu_01_03_02_priklad_matem_inform.csv": "https://abiturient.unn.ru/list/index.php?list=1&level=1&spec=281474976710721281474976711065&dop=0&fac=281474976710980&fin=281474976719885&form=0",
     "nngu_02_03_02_sopraj_razrabotka.csv": "https://abiturient.unn.ru/list/index.php?list=1&level=1&spec=281474976710711281474976711780&dop=0&fac=281474976710980&fin=281474976719885&form=0",
     "nngu_09_03_03_priklad_inform.csv": "https://abiturient.unn.ru/list/index.php?list=1&level=1&spec=281474976710725181474976711052&dop=0&fac=281474976710980&fin=281474976719885&form=0",
-    "nngu_09_03_03_priklad_inform_ekonomika.csv": "https://abiturient.unn.ru/list/index.php?list=1&level=1&spec=281474976710725281474976710682&dop=0&fac=281474976757685&fin=281474976719885&form=0"
+    "nngu_09_03_03_priklad_inform_ekonomika.csv": "https://abiturient.unn.ru/list/index.php?list=1&level=1&spec=281474976710725281474976710682&dop=0&fac=281474976757685&fin=281474976719885&form=0",
+    "nngu_02_03_02_inform_systems.csv": "https://abiturient.unn.ru/list/index.php?list=1&level=1&spec=281474976710711281474976711268&dop=0&fac=281474976710973&fin=281474976719885&form=0"
 }
