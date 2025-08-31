@@ -20,6 +20,7 @@
 ```bash
 git clone https://github.com/ChernyaevAV/Abitura.git
 cd abitura
+uv venv
 uv sync
 ```
 
